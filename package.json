@@ -1,0 +1,23 @@
+{
+  "name": "player",
+  "version": "1.0.0",
+  "description": "A music-player controlled by a REST-endpoint and hosted on a Raspberry Pi",
+  "main": "index.js",
+  "dependencies": {
+    "play-sound": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ss-lab/Player.git"
+  },
+  "author": "mittey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ss-lab/Player/issues"
+  },
+  "homepage": "https://github.com/ss-lab/Player#readme"
+}
